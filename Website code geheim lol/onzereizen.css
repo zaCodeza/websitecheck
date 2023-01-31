@@ -1,0 +1,27 @@
+body{
+    background-color: #333;
+    color: white;
+}
+.img-container {
+    width: 30%;
+    float: left;
+    margin: 1%;
+}
+
+img {
+width: 100%;
+}
+
+.home-link {
+text-align: center;
+margin: 50px 0;
+}
+
+a {
+color: white;
+text-decoration: none;
+}
+
+.center{
+    text-align: center; color: white;
+}
